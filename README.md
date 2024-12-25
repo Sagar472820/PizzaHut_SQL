@@ -20,3 +20,7 @@ To analyze sales performance, identify trends, and derive actionable insights fo
 ## SQL Scrips
 
 <a href="https://github.com/Sagar472820/PizzaHut_SQL/blob/main/SQL_Script.zip"> SQL Scrips </a>
+
+## Problem Statment
+
+<a href="https://github.com/Sagar472820/PizzaHut_SQL/blob/main/Problem%20Statement.txt"> Questions </a>
