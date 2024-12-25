@@ -15,3 +15,8 @@ To analyze sales performance, identify trends, and derive actionable insights fo
 
 ## Dateset Used
 
+<a href="https://github.com/Sagar472820/PizzaHut_SQL/blob/main/Dateset.zip"> PizzHut_Dataset </a>
+
+## SQL Scrips
+
+<a href="https://github.com/Sagar472820/PizzaHut_SQL/blob/main/SQL_Script.zip"> SQL Scrips </a>
